@@ -24,7 +24,7 @@ function checkLibSec() {
 
   let result = "";
 
-  // Normalize the input
+     
   switch (input) {
     case "1":
     case "emerald":
